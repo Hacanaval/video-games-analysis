@@ -22,7 +22,7 @@ python src/main.py
 
 ## Estructura
 
-src/: Código fuente.
-data/: Archivo games.csv.
-tests/: Futuras pruebas.
-docs/: Documentación adicional.
+- src/: Código fuente.
+- data/: Archivo games.csv.
+- tests/: Futuras pruebas.
+- docs/: Documentación adicional.
