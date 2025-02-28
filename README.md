@@ -13,7 +13,7 @@ Se realizan pruebas estadísticas (Levene y t-Student) para comparar:
    git clone https://github.com/tu-usuario/video-games-analysis.git
 
 2. Instala las dependencias:
-pip install pandas scipy
+pip install -r requirements.txt
 
 ## Uso
 Ejecuta el análisis:
